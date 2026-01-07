@@ -16,7 +16,6 @@ thiserror = "1.0"
 uuid = { version = "1.6", features = ["v4", "serde"] }
 
 # Pinecone
-pinecone-client = "0.1"
 
 [profile.release]
 opt-level = 3
